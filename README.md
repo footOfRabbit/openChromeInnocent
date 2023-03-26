@@ -1,0 +1,2 @@
+# openChromeInnocent
+目的就是简单的为了用chrome打开twitter上喜欢的博主
